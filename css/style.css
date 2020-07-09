@@ -1,0 +1,16 @@
+html {
+    background: url(https://thumbor.thedailymeal.com/PwyJHJwEjH5fmjecR0l9Mp2-M5s=//https://www.thedailymeal.com/sites/default/files/2018/05/10/Hero_21%20thigns%20texas_Slide_Edit.jpg);
+    background-size: cover;
+    font-family: Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    font-size: 2rem;
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+}
+
